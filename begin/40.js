@@ -10,4 +10,3 @@ const x=(C1*B2-C2*B1)/D;
 const y=(A1*C2-A2*C1)/D;
 console.log(x);
 console.log(y);
-
