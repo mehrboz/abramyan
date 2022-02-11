@@ -1,5 +1,5 @@
 const a=3;
-const prompt('dar bayni a va c');
+const b= prompt('dar bayni a va b')
 const c=6;
 const D=a<b<c;
 console.log(D);
