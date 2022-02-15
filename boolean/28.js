@@ -1,10 +1,10 @@
 const x=2;
-const y=4;
+const y=1;
 A=prompt('choryaki 2');
 const d=A==y;
 console.log(d);
 const x1=2;
 const y1=3;
-B=prompt('choryaki 3'); 
+B=prompt('choryaki 3');
 const Z=B==y1;
 console.log(Z);
