@@ -1,7 +1,7 @@
-var  a=-6;
-if (a>0)a++;
+  var  n=-6;
+if (n>0)n++;
 else
-if (a<0)a-=2;
+if (n<0)n-=2;
 else
-if (a==0)a+=10;
-console.log(a);
+if (n==0)n+=10;
+console.log(n);
