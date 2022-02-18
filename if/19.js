@@ -1,13 +1,16 @@
-const a = parseInt(prompt('a='));
-const b = parseInt(prompt('b='));
-const c = parseInt(prompt('c='));
-const d = parseInt(prompt('d='));
-if (a == b); {
-    if (a == d);
-    console.log(c)
-    console.log(d);
+if ((  b == c &&c==d)) {
+    console.log(1);
 }
-if (a == c) {
-    console.log(b);
-    console.log(a);
+else if((a ==c &&c==d)){
+    console.log(2);
 }
+else if((c==b && b ==d)){
+    console.log(3);
+}
+else if ((a==b&& b==c)){
+    console.log(4)
+}
+else {
+console.log('javob nest');
+}
+ 
