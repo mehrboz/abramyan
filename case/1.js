@@ -1,4 +1,4 @@
-var i = parseInt(prompt("Введите число из диапазона 1-: "));
+var i = parseInt(prompt("Введите число из диапазона 1-7: "));
 switch (i) {
     case 1:
         i = ' dushanbe';
