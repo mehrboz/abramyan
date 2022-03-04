@@ -5,5 +5,5 @@ let s = 1;
 for (i = 1; i <= N; i++) {
     f *= x / i;
     s += f;
-    console.log(s)
 }
+console.log(s)
