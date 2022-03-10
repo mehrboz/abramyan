@@ -9,4 +9,4 @@ while (r >= k) {
     q += 1
 }
 console.log('r=', r);
-console.log('q=', q); 
+console.log('q=', q);
