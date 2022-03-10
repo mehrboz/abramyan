@@ -7,5 +7,5 @@ for( i = 2; i <= n; i++) {
   k += 2;
   p *= (-1)*(k-3)/k*X;
   s += p;
-  console.log(s)
- }
+}
+console.log(s)
