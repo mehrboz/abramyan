@@ -6,4 +6,4 @@ while (K <= N) {
     x = 1 / K
     S += x;
 }
-console.log(x)
+console.log(S)
