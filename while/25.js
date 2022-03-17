@@ -1,4 +1,4 @@
-let n=parseInt(prompt('n='))
+let n=parseInt(prompt('n='));
 let f1=1;
 let f2=1;
 let f=0;
