@@ -10,5 +10,6 @@ while (f < n) {
 if (f == n) {
     console.log('true')
 } else {
+    
     console.log('false')
 }
